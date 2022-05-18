@@ -1,0 +1,13 @@
+{
+	"name": "100% dodge",
+	"description": "Cloaker = bad",
+	"author": "katze0010",
+	"contact": "nothing here",
+	"color": "36 36 36",
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/playermanager",
+			"script_path" : "main.lua"
+		}
+	]
+}
